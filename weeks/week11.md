@@ -1,19 +1,19 @@
-Mock Client Project
+# Mock Client Project
 
-KEY TASK:
-• Create fake client project
-• Write `client_requirements.md`
+## KEY TASK:
+* Create fake client project
+* Write `client_requirements.md`
 
-Record:
-    Day1-
-    Day2-
-    Day3-
-    Day4-
-    Day5-
-    Day6-
-    Day7-
+## Record:
+- Day1-
+- Day2-
+- Day3-
+- Day4-
+- Day5-
+- Day6-
+- Day7-
 
-Blockers/Challenges:
+## Blockers/Challenges:
 
-Checkpoint:
-    Turned vague idea into product:
+## Checkpoint:
+- Turned vague idea into product:

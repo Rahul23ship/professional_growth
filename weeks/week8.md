@@ -1,18 +1,18 @@
-Presentation Skill
+# Presentation Skill
 
-KEY TASK:
-• Record 3-min video/voice explanation of project
+## KEY TASK:
+* Record 3-min video/voice explanation of project
 
-Record:
-    Day1-
-    Day2-
-    Day3-
-    Day4-
-    Day5-
-    Day6-
-    Day7-
+## Record:
+- Day1-
+- Day2-
+- Day3-
+- Day4-
+- Day5-
+- Day6-
+- Day7-
 
-Blockers/Challenges:
+## Blockers/Challenges:
 
-Checkpoint:
-    Confidently explain your work:
+## Checkpoint:
+- Confidently explain your work:

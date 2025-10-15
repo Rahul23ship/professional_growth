@@ -1,19 +1,19 @@
-Code Standardization
+# Code Standardization
 
-KEY TASK:
-• Learn & apply PEP8 or C++ style guide
-• Use `flake8` or `clang-format`
+## EY TASK:
+* Learn & apply PEP8 or C++ style guide
+* Use `flake8` or `clang-format`
 
-Record:
-    Day1-
-    Day2-
-    Day3-
-    Day4-
-    Day5-
-    Day6-
-    Day7-
+## Record:
+- Day1-
+- Day2-
+- Day3-
+- Day4-
+- Day5-
+- Day6-
+- Day7-
 
-Blockers/Challenges:
+## Blockers/Challenges:
 
-Checkpoint:
-    Code looks professional:
+## Checkpoint:
+- Code looks professional:
