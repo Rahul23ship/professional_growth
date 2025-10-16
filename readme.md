@@ -3,11 +3,11 @@
 This repository tracks my progress to become a professional. I'll log my progress, reflections and completed weekly goals here.
 
 ## Purpose/Vision
-This repository will be tracking my progress and will be including tasks that I have to do in this journey. I want to leave my bad habits about doing things the easy way and to improve my skills along with it.
+This repository will track my progress and include tasks that I complete throughout this journey. I want to leave my bad habits of doing things the easy way and to improve my skills along with it.
 "I am undertaking this journey to overcome imposter syndrome and build confidence in professional work.”
 
 ## Weekly Tracker Structure
-This journey will be containing challenges for me divided into weeks. There are 12 weeks that will contain differents tasks that I have to complete within the week. To track and mark those tasks I have also created various week.md files that will be in the folder named 'weeks'.
+This journey will be containing challenges for me divided into weeks. There are 12 weeks that will contain different tasks that I have to complete within the week. To track and mark those tasks I have also created various week.md files that will be in the folder named 'weeks'.
 The Weeks are organised in a proper way:
     |WEEK  | FOCUS  |
     |------|--------|
@@ -24,7 +24,7 @@ The Weeks are organised in a proper way:
     |Week11| Mock Client Project |
     |Week12| Final Reflection |
 
-*More information of these Weeks will be provided in the 'weekX.md' files under the 'weeks/' folder.*
+*More information of these Weeks will be provided in the weekX.md files under the weeks/ folder.*
 
 ## How to use this Repo
 - Navigate to 'weeks/' folder to see weekly logs.
@@ -37,6 +37,9 @@ Constructive Feedback is Welcome.
 - If you notice an error in my logs or want to give advice, open an issue here.
 Thank You for helping me grow!
 
+## About Me
+I am Rahul Bhakuni, a B.Tech student documenting my 12-weeks journey to develop professional discipline and technical maturity.
+
 ## Progress Log
 - Week 1 started on 15/10/2025
-- Current Focus: Disciple setup and consistent daily commits.
+- Current Focus: Discipline setup and consistent daily commits.
