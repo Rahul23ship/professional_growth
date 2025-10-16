@@ -36,3 +36,7 @@ Constructive Feedback is Welcome.
 - Encourage GitHub issue or pull requests for feedback.
 - If you notice an error in my logs or want to give advice, open an issue here.
 Thank You for helping me grow!
+
+## Progress Log
+- Week 1 started on 15/10/2025
+- Current Focus: Disciple setup and consistent daily commits.

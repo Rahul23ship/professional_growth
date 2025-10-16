@@ -7,7 +7,7 @@
 
 ## Record:
 - Day1- Created GitHub repository `professional-growth`. Added `README.md`, `weeks/week1.md`, and `feedback/feedback.md`. Learned how to structure the repo and push commits via GitHub Desktop. Initial setup took longer than expected, but now the folder layout and file structure are clear.
-- Day2-
+- Day2- Reviewed repo visibility and formatting on GitHub. Added a Progress Log section to readme.md for accountability. Verified that all files appear in main branch. Practiced writing clean commit message.
 - Day3-
 - Day4-
 - Day5-
