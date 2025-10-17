@@ -40,6 +40,12 @@ Thank You for helping me grow!
 ## About Me
 I am Rahul Bhakuni, a B.Tech student documenting my 12-weeks journey to develop professional discipline and technical maturity.
 
+## How I Work
+- I push commits daily to stay consistent.
+- Each week's folder shows my growth through structured writing.
+- I focus on improvement, not perfection.
+
 ## Progress Log
 - Week 1 started on 15/10/2025
 - Current Focus: Discipline setup and consistent daily commits.
+- Next Update: Daily logs tracked in weeks/week1.md
