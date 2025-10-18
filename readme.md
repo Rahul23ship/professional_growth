@@ -45,6 +45,12 @@ I am Rahul Bhakuni, a B.Tech student documenting my 12-weeks journey to develop 
 - Each week's folder shows my growth through structured writing.
 - I focus on improvement, not perfection.
 
+## Daily Accountability Rules
+- Minimum one commit per day (no excuses).
+- Every commit must have a purpose or reflection.
+- Skipping a day = write a reason in week1.md under Blockers.
+- Weekly review on day 7 - if missed a day, publicly note it.
+
 ## Progress Log
 - Week 1 started on 15/10/2025
 - Current Focus: Discipline setup and consistent daily commits.
