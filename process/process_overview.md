@@ -1,4 +1,4 @@
-# My professional workflow
+# My Professional Workflow
 
 ## Purpose
 To simulate real developer's workflow and keep my projects systematic.
@@ -7,7 +7,7 @@ To simulate real developer's workflow and keep my projects systematic.
 - Plan tasks before coding.
 - Write clear commit messages.
 - Review and self-audit code or documents weekly.
-- Push only complete and meningful updates.
+- Push only complete and meaningful updates.
 
 ## Tools
 - GitHub Desktop (for commits)
