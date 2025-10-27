@@ -12,9 +12,11 @@
 - Day4- Added a Daily Accountability Rules section to README.md. Reinforced commitement to consistency. Reviewed last 3 days' work and confirmed no skipped days.
 - Day5- Created a /process folder and documented my workflow in process_overview.md. Learned how structured documentation improves project maintainability.
 - Day6- Created self_review.md and wrote my self-review. Understood the value of reflection in continous improvement.
-- Day7-
+- Day7- Created a retrospective_week1.md and wrote about the work done by me in week1.
 
-## Blockers/Challenges:
+## Blockers/Challenges: 
+- Festivals.
+- Laziness.
 
 ## Checkpoint:
 - Repo active with 7 commits:
